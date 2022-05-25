@@ -14,15 +14,15 @@ These people are forced to sacrifice a lot in order to live, but their ideas are
 
 Data process details:
 ---------------------------------------------------------------------------------------------------------------------
-1.Searching
+**1. Searching**
 
 
 Regardless of users or supervisors, when anyone uses keywords to search for occpation, age, and the number of confirmed cases in the user interface, the search engine provided by the supervisor will filter the tags catalog according to the keyword strings, and display the results in the user interface.
 
 In the user interface, the software menu/catalog will be synchronized with the search engine, and its main function is to display the DB table list.
 
-*********************************************************************************************************************
-2.DB
+
+**2. DB**
 
 
 In the process of data management, the supervisor needs to identify the information of the selected options.
@@ -34,26 +34,26 @@ In order to support the descriptions, the webpage will also display the graphs.
 When the users who are interseted in the information system, conduct the steps of public editing on the website, he/she needs to enter his/her own trader information. 
 After entering the trader information again, if you make another purchase on the same website, you can directly recall the latest trader information from the database to achieve simplified login steps.
 
-*********************************************************************************************************************
-3.Data Print:
+
+**3. Data Print:**
 
 
 We will display various occupations and their age groups in the graph (graphics) for comparison.
 In this era of outbreaks, is it true that the probability of diagnosis of the elderly population is much higher than that of other ethnic groups? 
 In addition, we will also consider several doses of vaccines and severe Kansina.
 
-*********************************************************************************************************************
-4.Errors detect
+
+**4. Errors detect**
 
 
-Websites generate a lot of system errors and delays when accessing trader information at the same time. 
+- Websites generate a lot of system errors and delays when accessing trader information at the same time. 
 When performing self-diagnosis, a window will pop up to display and execute.
 
-If there are execution errors in any operation, the system will detect these errors and display information or requests, for example:
+- If there are execution errors in any operation, the system will detect these errors and display information or requests, for example:
     (1) When searching for a keyword, the keyword must be a complete vocabulary.
     (2) In the transaction interface, which options must be filled in by customers.
 
-There are lots of operations to detect the execution, so identifying some operation which could run  automatically is necessary to make the system more efficient. 
+- There are lots of operations to detect the execution, so identifying some operation which could run  automatically is necessary to make the system more efficient. 
 After the system received those requests, detecting the steps unexpectedly the operation repeated and error message got. 
 Then, show the window which displays the result. If there’s any error then give the default solutions.
 
@@ -61,7 +61,7 @@ The previous login information is automatically retrieved from the database for 
 
 Data Resourse:
 ------------------------------------------------------------------------------------------------------------------------
-The main purpose of giving this kind of information is to let everyone know more about the new coronavirus COVID-19 and provide assistance, and I hope you can know what to do when faced with this kind of global disease to ensure your own health.
+**The main purpose of giving this kind of information is to let everyone know more about the new coronavirus COVID-19 and provide assistance, and I hope you can know what to do when faced with this kind of global disease to ensure your own health.**
 *********************************************************************************************************************
 Sources of statistics on the number of confirmed cases in Taiwan and the vaccination rate of various age groups in Taiwan:
 Ministry of Health and Welfare https://covid19.mohw.gov.tw/ch/sp-timeline0-205.html
