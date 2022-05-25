@@ -1,5 +1,5 @@
 Occupational Environment Epidemic Diagnosed Population Network
-------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 Statistics on high-risk groups based on the relationship between occupation, age and the number of confirmed cases
 
 The fledgling version: The first version build, latter will support other language versions.
