@@ -18,7 +18,3 @@ https://github.com/Luke0920
 
 409850434楊浩中
 https://github.com/Hao20210808
-
-
-*********************************************************************************************************************
-<iframe src="https://drive.google.com/file/d/16Q3hsXYIRRZcNyq4yI_HshgBk4C7oLOF/preview" width="640" height="480" allow="autoplay"></iframe>
