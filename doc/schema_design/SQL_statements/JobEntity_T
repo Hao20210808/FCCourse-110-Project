@@ -1,0 +1,5 @@
+CREATE TABLE "JobEntity" (
+	"bottle"	TEXT,
+	"name"	TEXT,
+	FOREIGN KEY("bottle") REFERENCES "CondenserEntity"("Name")
+);
