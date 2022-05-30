@@ -1,0 +1,6 @@
+CREATE TABLE "Job occupation" (
+	"Occupation ID"	INTEGER NOT NULL DEFAULT 0000,
+	"Occupation Name"	TEXT DEFAULT 'non',
+	"Workplace Environment"	TEXT,
+	FOREIGN KEY("Workplace Environment") REFERENCES "JobEntity"("name")
+);
