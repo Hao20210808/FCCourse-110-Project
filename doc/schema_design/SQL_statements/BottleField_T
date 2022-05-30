@@ -1,0 +1,10 @@
+CREATE TABLE "BottleField" (
+	"id"	INTEGER,
+	"embedded_doc"	TEXT,
+	"field_name"	INTEGER,
+	"field_type"	INTEGER,
+	"target_type"	INTEGER,
+	FOREIGN KEY("field_name") REFERENCES "CondenserEntity"("Name"),
+	FOREIGN KEY("embedded_doc") REFERENCES "BottleFieldEntity",
+	PRIMARY KEY("id")
+);
