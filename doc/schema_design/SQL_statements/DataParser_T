@@ -1,0 +1,13 @@
+CREATE TABLE "DataParser" (
+	"id"	INTEGER,
+	"formatter"	TEXT,
+	"method"	TEXT,
+	"name"	TEXT,
+	"regex"	TEXT,
+	"Sourse_fields"	INTEGER,
+	FOREIGN KEY("name") REFERENCES "Entity"("name"),
+	FOREIGN KEY("Sourse_fields") REFERENCES "Entity"("sourse_fields"),
+	FOREIGN KEY("formatter") REFERENCES "Entity"("formatter"),
+	FOREIGN KEY("regex") REFERENCES "Entity"("regex"),
+	FOREIGN KEY("method") REFERENCES "Entity"("method")
+);
