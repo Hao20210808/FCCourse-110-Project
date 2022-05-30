@@ -1,0 +1,5 @@
+CREATE TABLE "BottleFieldEntity" (
+	"field_name"	TEXT,
+	"field_type"	TEXT,
+	"target_type"	TEXT
+);
