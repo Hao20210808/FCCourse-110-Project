@@ -1,0 +1,8 @@
+CREATE TABLE "DataBase" (
+	"Data_Field"	INTEGER,
+	"Sourse_Field"	INTEGER,
+	"method"	TEXT,
+	"Fold_id"	INTEGER,
+	"Folder_name"	TEXT,
+	FOREIGN KEY("Data_Field") REFERENCES "Confirmed Patient"
+);
