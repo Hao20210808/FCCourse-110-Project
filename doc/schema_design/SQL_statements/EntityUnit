@@ -1,0 +1,7 @@
+CREATE TABLE "EntityUnit" (
+	"formatter"	TEXT,
+	"method"	TEXT,
+	"name"	TEXT,
+	"regex"	TEXT,
+	"sourse_fields"	TEXT
+);
