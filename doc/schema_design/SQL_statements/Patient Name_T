@@ -1,0 +1,5 @@
+CREATE TABLE "Patient Name" (
+	"Fname"	TEXT,
+	"Mname"	TEXT,
+	"Lname"	TEXT
+);
