@@ -12,6 +12,14 @@ Even after this, there are still many people who are engaged in jobs that cannot
 These people are forced to sacrifice a lot in order to live, but their ideas are easily ignored by the general environment of this society. So this website hopes to express the plight of people engaged in these occupations through data analysis.
 
 
+version 1.0
+---------------------------------------------------------------------------------------------------------------------
+- user interface
+- tags of occupational environment pages.
+- introduce the job occupation in each pages.
+- display graphics(line chart, pie chart and group column chart) of the analysis and descriptions in page. 
+
+
 Data process details:
 ---------------------------------------------------------------------------------------------------------------------
 **1. Searching**
