@@ -1,1 +1,2 @@
-
+- The document for the users. How to use it? 
+- How to operate each functionality?
