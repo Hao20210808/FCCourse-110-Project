@@ -22,7 +22,7 @@ version 1.0
 
 Data process details:
 ---------------------------------------------------------------------------------------------------------------------
-**1. Searching**
+**1. Searching**(version 1+)
 
 
 - Regardless of users or supervisors, when anyone uses keywords to search for occpation, age, and the number of confirmed cases in the user interface, the search engine provided by the supervisor will filter the tags catalog according to the keyword strings, and display the results in the user interface.
