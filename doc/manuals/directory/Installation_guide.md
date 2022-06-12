@@ -8,13 +8,10 @@ Consider providing the step-by-step instructions so that anyone can follow it to
 
 
 **step 1:**
-
 First of all, you need to search our website (Occupational Environment Epidemic Diagnosed Population Network), and click into it.
 
-step 2: 
----------------------------------------------------------------------------------------------------------------------
+**step 2:**
 We have a download bottom(you need to log in first than you can download)
 
-step 3: 
----------------------------------------------------------------------------------------------------------------------
+**step 3:**
 After download you need to log in one more time, than you can start enjoy it!
