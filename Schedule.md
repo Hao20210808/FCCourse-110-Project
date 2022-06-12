@@ -2,3 +2,6 @@
 - [x] Setup GitHub project repository
 - [x] Design backend schema: https://github.com/Hao20210808/FCCourse-110-Project/tree/main/doc/schema_design
 - [ ] Writing the Manuals
+- [x] HTML
+- [ ] CSS
+- [x] DB
