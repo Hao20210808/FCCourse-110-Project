@@ -12,6 +12,7 @@ About the user Interface
 
 ****************************************
 **Subpages(in the folder** *pages* **):**
+- Have a label also
 - Include:
   - **What_is_COVID-19?.html**
     1. Introduction of COVID-19
