@@ -10,4 +10,4 @@ About the user Interface
   - SQL source
 
 
-Subpages(in the folder*pages*):
+**Subpages(in the folder *pages*):**
