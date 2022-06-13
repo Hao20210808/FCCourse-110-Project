@@ -1,5 +1,6 @@
-About the user page:
-Main page (Main.html)
+About the user Interface
+---------------------------------------
+**Main page (Main.html)**
 - Include:
   - Label
   - Functional description
@@ -7,3 +8,6 @@ Main page (Main.html)
   - Motivation & Purpose
   - Reference sources
   - SQL source
+
+
+Subpages(in the folder * *pages* *):
