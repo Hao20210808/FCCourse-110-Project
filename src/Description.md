@@ -2,7 +2,7 @@ About the user Interface
 ---------------------------------------
 **Main page (Main.html)**
 - Include:
-  - Label
+  - Label (link to the subpages)
   - Functional description
   - Editor list
   - Motivation & Purpose
