@@ -13,7 +13,7 @@ About the user Interface
 **Subpages(in the folder** *pages* **):**
 - Include:
   - What_is_COVID-19?.html
-    1. Introduction of COVID-19
+    1.Introduction of COVID-19
   - High_Risk_Groups.html
   - Environments_Of_Occupation.html
   - Level_Of_Ages.html
