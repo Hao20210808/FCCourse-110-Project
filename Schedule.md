@@ -1,5 +1,5 @@
 - [x] Project description: https://github.com/Hao20210808/FCCourse-110-Project/tree/main/doc/proj_description
-- [x] Setup GitHub project repository
+- [x] Setup GitHub project repository: https://github.com/Hao20210808/FCCourse-110-Project
 - [x] Design backend schema: https://github.com/Hao20210808/FCCourse-110-Project/tree/main/doc/schema_design
 - [x] Writing the Manuals
 - [x] HTML
