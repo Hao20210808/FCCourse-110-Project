@@ -1,7 +1,8 @@
 - [x] Project description: https://github.com/Hao20210808/FCCourse-110-Project/tree/main/doc/proj_description
 - [x] Setup GitHub project repository: https://github.com/Hao20210808/FCCourse-110-Project
 - [x] Design backend schema: https://github.com/Hao20210808/FCCourse-110-Project/tree/main/doc/schema_design
-- [x] Writing the Manuals
-- [x] HTML
+- [x] Writing the Manuals: https://github.com/Hao20210808/FCCourse-110-Project/tree/main/doc/manuals/directory
+- [x] HTML: https://github.com/Hao20210808/FCCourse-110-Project/tree/main/src
 - [ ] CSS
-- [x] DB
+- [x] Data: https://github.com/Hao20210808/FCCourse-110-Project/tree/main/src/DataBase
+- [x] DB table: https://github.com/Hao20210808/FCCourse-110-Project/tree/main/doc/schema_design/SQL_statements
